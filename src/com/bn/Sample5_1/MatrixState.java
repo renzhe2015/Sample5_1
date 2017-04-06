@@ -2,7 +2,7 @@ package com.bn.Sample5_1;
 
 import android.opengl.Matrix;
 
-//存储系统矩阵状态的类
+//存储系统矩阵状态的类====
 public class MatrixState 
 {
 	private static float[] mProjMatrix = new float[16];//4x4矩阵 投影用
